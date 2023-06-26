@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarization
+Version: 0.0.0
+Summary: Text Summarization using NLP and Hugging Face
+Home-page: https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}
+Author: shubham-kamlaskar
+Author-email: shubham.kamlaskar@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Text_Summarization
